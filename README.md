@@ -1,6 +1,6 @@
 # My Very Lite Design
 
-This is a hand-minimized version of the Material Design Lite ["Article" template](http://www.getmdl.io/templates/article/index.html) template. It uses only 4 `<div>` elements (instead of 22) and 9 CSS rules (rather than > 1000), so it that can be used as a lightweight template. The following have been removed:
+This is a hand-minimized version of the Material Design Lite ["Article" template](http://www.getmdl.io/templates/article/index.html) template. It uses only 4 `<div>` elements (instead of 22) and 9 CSS rules (rather than > 1000), so that it can be used as a lightweight template. The following have been removed:
 
 - Search box (allows getting rid of Javascript)
 - "View source" link
